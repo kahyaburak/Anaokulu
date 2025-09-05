@@ -1,0 +1,11 @@
+http://burakanaokulu.byethost32.com/
+
+yönetici kullanıcı ismi: admin
+
+yönetici şifresi: admin
+
+
+
+Kayıtlı kullanıcı ismi: Burak
+
+Kayıtlı kullanıcı şifresi: 123
